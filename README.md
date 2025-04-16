@@ -11,6 +11,7 @@ Resources for St. Andrews University students who want to learn about accessibil
 * [Web Content Accessibility Guidelines - quick reference](https://www.w3.org/WAI/WCAG22/quickref/)
 * [Trusted Tester methodology](https://github.com/Section508Coordinators/TrustedTester5.1/tree/main)
 * [The WebAIM Million](https://webaim.org/projects/million/)
+* [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/)
 * [ADA Title III Federal Lawsuit Numbers Rebound to 8,800 in 2024](https://www.adatitleiii.com/2025/03/ada-title-iii-federal-lawsuit-numbers-rebound-to-8800-in-2024/)
 * [The Automated Accessibility Coverage Report](https://www.deque.com/automated-accessibility-testing-coverage/)
 
