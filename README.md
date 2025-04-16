@@ -4,6 +4,8 @@
 
 Resources for St. Andrews University students who want to learn about accessibility testing.
 
+[Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/)
+
 ## Resources used during the presentation
 
 * [Web Accessibility Perspectives Videos: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
