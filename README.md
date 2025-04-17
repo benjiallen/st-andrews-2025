@@ -4,7 +4,11 @@
 
 Resources for St. Andrews University students who want to learn about accessibility testing.
 
-[Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/)
+[Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/) - please connect!
+
+## Transcript
+
+This is the [script](transcript.md) I used while presenting. It's not an exact transcript but should be useful.
 
 ## Resources used during the presentation
 
@@ -25,3 +29,17 @@ Resources for St. Andrews University students who want to learn about accessibil
 ## Books
 
 [Agile Accessibility Handbook](https://accessibility.deque.com/agile-accessibility-handbook)
+
+## Professional organisations
+
+[International Association of Accessibility Professionals](https://www.accessibilityassociation.org/)
+
+## Conferences full of free resources
+
+- [axe-con](https://www.deque.com/axe-con/)
+- [Global Accessibility Awareness Day (GAAD)](https://accessibility.day/)
+
+## Jobs
+
+- [a11y jobs](https://www.a11yjobs.com/)
+- [UK Accessibility Jobs Roundup](https://www.linkedin.com/newsletters/7280935018485411841/?displayConfirmation=true)
