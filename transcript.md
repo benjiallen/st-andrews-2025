@@ -6,7 +6,7 @@ Thank you Professor Kirby, and hello everyone. My name is Ben Allen, and the fir
 
 This is a graduation picture, and this is how my Mum likes to think I spent my days at St. Andrews. In formal dress, white tie & gown.
 
-This is how I remember my time at St. Andrews. Collapsed on West Sands, with a bottle of Kronnenberg close to hand.
+This is how I remember my time at St. Andrews. Collapsed on West Sands, with a bottle of Kronenbourg close to hand.
 
 ## Formal intro
 
